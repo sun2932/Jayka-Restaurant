@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jayka-Restaurant/static/css/main.beab7ec5.css",
+    "main.js": "/Jayka-Restaurant/static/js/main.b8a852d0.js",
+    "index.html": "/Jayka-Restaurant/index.html",
+    "main.beab7ec5.css.map": "/Jayka-Restaurant/static/css/main.beab7ec5.css.map",
+    "main.b8a852d0.js.map": "/Jayka-Restaurant/static/js/main.b8a852d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beab7ec5.css",
+    "static/js/main.b8a852d0.js"
+  ]
+}
